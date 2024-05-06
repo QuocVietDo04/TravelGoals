@@ -1,0 +1,11 @@
+1. Header:
+    - Background
+    - Text logo
+    - Nav
+    - Text content
+2. Main:
+    - Heading Text
+    - List Travel
+3. Footer
+    - Instagram Logo
+    - Facebook Logo
